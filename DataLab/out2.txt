@@ -1,0 +1,5 @@
+Imprimis: I am a man who, from his youth upwards, Line 1 has 10 tokens (longest = 9)
+has been filled with a profound conviction Line 2 has 7 tokens (longest = 10)
+that the easiest way of life is the best. Line 3 has 9 tokens (longest = 7)
+Hence, though I belong to a profession proverbially energetic and nervous, Line 4 has 11 tokens (longest = 12)
+Longest line: Hence, though I belong to a profession proverbially energetic and nervous,

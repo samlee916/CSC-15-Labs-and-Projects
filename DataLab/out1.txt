@@ -1,0 +1,4 @@
+Lorem ipsum dolor sit amet, Line 1 has 5 tokens (longest = 5)
+consectetur adipisicing elit, Line 2 has 3 tokens (longest = 11)
+sed do eiusmod tempor incididunt Line 3 has 5 tokens (longest = 10)
+Longest line: sed do eiusmod tempor incididunt

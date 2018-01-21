@@ -1,0 +1,5 @@
+Beware the Jabberwock, my son, Line 1 has 5 tokens (longest = 11)
+the jaws that bite, the claws that catch, Line 2 has 8 tokens (longest = 6)
+Beware the JubJub bird and shun Line 3 has 6 tokens (longest = 6)
+the frumious bandersnatch. Line 4 has 3 tokens (longest = 13)
+Longest line: the jaws that bite, the claws that catch,
